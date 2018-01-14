@@ -1,0 +1,17 @@
+C:\Users\Italo\Documents\Visual Studio 2012\Projects\Estudo Banco de Dados\projetoDrausio\Temporada1\Apresentacao\bin\Debug\Apresentacao.exe.config
+C:\Users\Italo\Documents\Visual Studio 2012\Projects\Estudo Banco de Dados\projetoDrausio\Temporada1\Apresentacao\bin\Debug\Apresentacao.exe
+C:\Users\Italo\Documents\Visual Studio 2012\Projects\Estudo Banco de Dados\projetoDrausio\Temporada1\Apresentacao\bin\Debug\Apresentacao.pdb
+C:\Users\Italo\Documents\Visual Studio 2012\Projects\Estudo Banco de Dados\projetoDrausio\Temporada1\Apresentacao\obj\Debug\Apresentacao.csprojResolveAssemblyReference.cache
+C:\Users\Italo\Documents\Visual Studio 2012\Projects\Estudo Banco de Dados\projetoDrausio\Temporada1\Apresentacao\obj\Debug\Apresentacao.Properties.Resources.resources
+C:\Users\Italo\Documents\Visual Studio 2012\Projects\Estudo Banco de Dados\projetoDrausio\Temporada1\Apresentacao\obj\Debug\Apresentacao.csproj.GenerateResource.Cache
+C:\Users\Italo\Documents\Visual Studio 2012\Projects\Estudo Banco de Dados\projetoDrausio\Temporada1\Apresentacao\obj\Debug\Apresentacao.exe
+C:\Users\Italo\Documents\Visual Studio 2012\Projects\Estudo Banco de Dados\projetoDrausio\Temporada1\Apresentacao\obj\Debug\Apresentacao.pdb
+C:\Users\Italo\Documents\Visual Studio 2012\Projects\Estudo Banco de Dados\projetoDrausio\Temporada1\Apresentacao\obj\Debug\Apresentacao.FrmMenu.resources
+C:\Users\Italo\Documents\Visual Studio 2012\Projects\Estudo Banco de Dados\projetoDrausio\Temporada1\Apresentacao\obj\Debug\Apresentacao.FrmClienteSelecionar.resources
+C:\Users\Italo\Documents\Visual Studio 2012\Projects\Estudo Banco de Dados\projetoDrausio\Temporada1\Apresentacao\bin\Debug\Negocios.dll
+C:\Users\Italo\Documents\Visual Studio 2012\Projects\Estudo Banco de Dados\projetoDrausio\Temporada1\Apresentacao\bin\Debug\ObjetoTransferencia.dll
+C:\Users\Italo\Documents\Visual Studio 2012\Projects\Estudo Banco de Dados\projetoDrausio\Temporada1\Apresentacao\bin\Debug\AcessoBancoDados.dll
+C:\Users\Italo\Documents\Visual Studio 2012\Projects\Estudo Banco de Dados\projetoDrausio\Temporada1\Apresentacao\bin\Debug\Negocios.pdb
+C:\Users\Italo\Documents\Visual Studio 2012\Projects\Estudo Banco de Dados\projetoDrausio\Temporada1\Apresentacao\bin\Debug\ObjetoTransferencia.pdb
+C:\Users\Italo\Documents\Visual Studio 2012\Projects\Estudo Banco de Dados\projetoDrausio\Temporada1\Apresentacao\bin\Debug\AcessoBancoDados.pdb
+C:\Users\Italo\Documents\Visual Studio 2012\Projects\Estudo Banco de Dados\projetoDrausio\Temporada1\Apresentacao\obj\Debug\Apresentacao.FrmClienteCadastrar.resources
