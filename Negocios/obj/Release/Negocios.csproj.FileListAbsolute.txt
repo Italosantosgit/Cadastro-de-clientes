@@ -1,0 +1,9 @@
+C:\Users\Italo\Documents\Visual Studio 2012\Projects\Estudo Banco de Dados\projetoDrausio\Temporada1\Negocios\bin\Release\Negocios.dll
+C:\Users\Italo\Documents\Visual Studio 2012\Projects\Estudo Banco de Dados\projetoDrausio\Temporada1\Negocios\bin\Release\Negocios.pdb
+C:\Users\Italo\Documents\Visual Studio 2012\Projects\Estudo Banco de Dados\projetoDrausio\Temporada1\Negocios\bin\Release\AcessoBancoDados.dll
+C:\Users\Italo\Documents\Visual Studio 2012\Projects\Estudo Banco de Dados\projetoDrausio\Temporada1\Negocios\bin\Release\ObjetoTransferencia.dll
+C:\Users\Italo\Documents\Visual Studio 2012\Projects\Estudo Banco de Dados\projetoDrausio\Temporada1\Negocios\bin\Release\AcessoBancoDados.pdb
+C:\Users\Italo\Documents\Visual Studio 2012\Projects\Estudo Banco de Dados\projetoDrausio\Temporada1\Negocios\bin\Release\ObjetoTransferencia.pdb
+C:\Users\Italo\Documents\Visual Studio 2012\Projects\Estudo Banco de Dados\projetoDrausio\Temporada1\Negocios\obj\Release\Negocios.csprojResolveAssemblyReference.cache
+C:\Users\Italo\Documents\Visual Studio 2012\Projects\Estudo Banco de Dados\projetoDrausio\Temporada1\Negocios\obj\Release\Negocios.dll
+C:\Users\Italo\Documents\Visual Studio 2012\Projects\Estudo Banco de Dados\projetoDrausio\Temporada1\Negocios\obj\Release\Negocios.pdb
