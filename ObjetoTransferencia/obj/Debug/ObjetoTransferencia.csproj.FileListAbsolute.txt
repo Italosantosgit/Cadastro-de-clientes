@@ -1,0 +1,5 @@
+C:\Users\Italo\Documents\Visual Studio 2012\Projects\Estudo Banco de Dados\projetoDrausio\Temporada1\ObjetoTransferencia\bin\Debug\ObjetoTransferencia.dll
+C:\Users\Italo\Documents\Visual Studio 2012\Projects\Estudo Banco de Dados\projetoDrausio\Temporada1\ObjetoTransferencia\bin\Debug\ObjetoTransferencia.pdb
+C:\Users\Italo\Documents\Visual Studio 2012\Projects\Estudo Banco de Dados\projetoDrausio\Temporada1\ObjetoTransferencia\obj\Debug\ObjetoTransferencia.dll
+C:\Users\Italo\Documents\Visual Studio 2012\Projects\Estudo Banco de Dados\projetoDrausio\Temporada1\ObjetoTransferencia\obj\Debug\ObjetoTransferencia.pdb
+C:\Users\Italo\Documents\Visual Studio 2012\Projects\Estudo Banco de Dados\projetoDrausio\Temporada1\ObjetoTransferencia\obj\Debug\ObjetoTransferencia.csprojResolveAssemblyReference.cache
