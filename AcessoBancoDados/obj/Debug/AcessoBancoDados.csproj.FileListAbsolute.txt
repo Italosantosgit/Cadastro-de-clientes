@@ -1,0 +1,6 @@
+C:\Users\Italo\Documents\Visual Studio 2012\Projects\Estudo Banco de Dados\projetoDrausio\Temporada1\AcessoBancoDados\bin\Debug\AcessoBancoDados.dll.config
+C:\Users\Italo\Documents\Visual Studio 2012\Projects\Estudo Banco de Dados\projetoDrausio\Temporada1\AcessoBancoDados\bin\Debug\AcessoBancoDados.dll
+C:\Users\Italo\Documents\Visual Studio 2012\Projects\Estudo Banco de Dados\projetoDrausio\Temporada1\AcessoBancoDados\bin\Debug\AcessoBancoDados.pdb
+C:\Users\Italo\Documents\Visual Studio 2012\Projects\Estudo Banco de Dados\projetoDrausio\Temporada1\AcessoBancoDados\obj\Debug\AcessoBancoDados.dll
+C:\Users\Italo\Documents\Visual Studio 2012\Projects\Estudo Banco de Dados\projetoDrausio\Temporada1\AcessoBancoDados\obj\Debug\AcessoBancoDados.pdb
+C:\Users\Italo\Documents\Visual Studio 2012\Projects\Estudo Banco de Dados\projetoDrausio\Temporada1\AcessoBancoDados\obj\Debug\AcessoBancoDados.csprojResolveAssemblyReference.cache
