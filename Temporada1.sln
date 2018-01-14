@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AcessoBancoDados", "AcessoBancoDados\AcessoBancoDados.csproj", "{D7A7510D-FAB6-4B45-9960-33F2EE85A278}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Negocios", "Negocios\Negocios.csproj", "{7609C7CB-4882-4F58-BBD6-80A6B103AA06}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Apresentacao", "Apresentacao\Apresentacao.csproj", "{F6610BC8-8EF7-483A-A5E2-A4D81098DE34}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjetoTransferencia", "ObjetoTransferencia\ObjetoTransferencia.csproj", "{32983ECF-944E-48CC-A788-DCD64FC5B84F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7A7510D-FAB6-4B45-9960-33F2EE85A278}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7A7510D-FAB6-4B45-9960-33F2EE85A278}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7A7510D-FAB6-4B45-9960-33F2EE85A278}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7A7510D-FAB6-4B45-9960-33F2EE85A278}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7609C7CB-4882-4F58-BBD6-80A6B103AA06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7609C7CB-4882-4F58-BBD6-80A6B103AA06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7609C7CB-4882-4F58-BBD6-80A6B103AA06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7609C7CB-4882-4F58-BBD6-80A6B103AA06}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6610BC8-8EF7-483A-A5E2-A4D81098DE34}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6610BC8-8EF7-483A-A5E2-A4D81098DE34}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6610BC8-8EF7-483A-A5E2-A4D81098DE34}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6610BC8-8EF7-483A-A5E2-A4D81098DE34}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32983ECF-944E-48CC-A788-DCD64FC5B84F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32983ECF-944E-48CC-A788-DCD64FC5B84F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32983ECF-944E-48CC-A788-DCD64FC5B84F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32983ECF-944E-48CC-A788-DCD64FC5B84F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
